@@ -1,0 +1,30 @@
+.topnav{
+    background-color: rgb(197, 197, 197);
+    padding: 40px;
+    
+}
+
+.about-uwm{
+    background-color: rgb(255, 214, 80);
+    padding: 20px;
+}
+
+.sections{
+    background-color: rgb(123, 123, 123);
+    padding: 20px;
+}
+
+.footernav{
+    background-color: rgb(197, 197, 197);
+    padding: 40px;
+}
+
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+}
+
+body {
+    margin: 0;
+}
+

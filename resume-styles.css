@@ -1,0 +1,11 @@
+.wrapper {
+    max-width: 600px;
+    margin: auto;
+    background-color: thistle;
+    padding: 40px;
+}
+
+body {
+    margin: 0;
+    background-color: lavender;
+}
